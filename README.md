@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Competitive Proogrammer 3⭐️ coder on **[Codechef](https://www.codechef.com/users/rutik04)**
+- 👨‍💻 Competitive Programmer 3⭐️ coder on **[Codechef](https://www.codechef.com/users/rutik04)**
 
 - 📫 How to reach me **rutikgagare091971@gmail.com**
 
