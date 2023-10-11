@@ -39,6 +39,8 @@
     </a>
 </p>
 
+[![An image of @rutikgagare's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rutikgagare)](https://holopin.io/@rutikgagare)
+
 ## 📊 My Github Stats
 
   <br/>
